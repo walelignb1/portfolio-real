@@ -1,27 +1,23 @@
 {
   "files": {
-    "main.css": "/portfolio.com/static/css/main.1ea9eec0.css",
-    "main.js": "/portfolio.com/static/js/main.ade92db5.js",
-    "static/js/415.4d6acbeb.chunk.js": "/portfolio.com/static/js/415.4d6acbeb.chunk.js",
-    "static/js/787.1ed0c42c.chunk.js": "/portfolio.com/static/js/787.1ed0c42c.chunk.js",
-    "static/media/walelign belisty cv.pdf": "/portfolio.com/static/media/walelign belisty cv.d52306d97fec38ff63d0.pdf",
-    "static/media/leaf.png": "/portfolio.com/static/media/leaf.c5dc08f4b5dddf97227f.png",
-    "static/media/avatar.png": "/portfolio.com/static/media/avatar.f4f0f5fc62920d59d7e6.png",
-    "static/media/home-bg.jpg": "/portfolio.com/static/media/home-bg.dbdb00e1ffd47079cd6e.jpg",
-    "static/media/codeEditor.png": "/portfolio.com/static/media/codeEditor.8c83442ddbc24cc3e1d4.png",
-    "static/media/blog.png": "/portfolio.com/static/media/blog.36ca213737091c63a409.png",
-    "static/media/chatify.png": "/portfolio.com/static/media/chatify.085744e6b5df9ae8356e.png",
-    "static/media/about.jpg": "/portfolio.com/static/media/about.cef9fb5c14d6542d2ca6.jpg",
-    "static/media/suicide.png": "/portfolio.com/static/media/suicide.19fe5cebcf57c532fbcb.png",
-    "static/media/pre.svg": "/portfolio.com/static/media/pre.d4812f51c8c80976eaab.svg",
-    "index.html": "/portfolio.com/index.html",
-    "main.1ea9eec0.css.map": "/portfolio.com/static/css/main.1ea9eec0.css.map",
-    "main.ade92db5.js.map": "/portfolio.com/static/js/main.ade92db5.js.map",
-    "415.4d6acbeb.chunk.js.map": "/portfolio.com/static/js/415.4d6acbeb.chunk.js.map",
-    "787.1ed0c42c.chunk.js.map": "/portfolio.com/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/portfolio-real/static/css/main.7de32d10.css",
+    "main.js": "/portfolio-real/static/js/main.591a5f0c.js",
+    "static/js/415.4d6acbeb.chunk.js": "/portfolio-real/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio-real/static/js/787.1ed0c42c.chunk.js",
+    "static/media/walelign belisty cv.pdf": "/portfolio-real/static/media/walelign belisty cv.d52306d97fec38ff63d0.pdf",
+    "static/media/avatar.png": "/portfolio-real/static/media/avatar.f4f0f5fc62920d59d7e6.png",
+    "static/media/home-bg.jpg": "/portfolio-real/static/media/home-bg.dbdb00e1ffd47079cd6e.jpg",
+    "static/media/chatify.jpg": "/portfolio-real/static/media/chatify.4edb15e45faa9424ca7c.jpg",
+    "static/media/about.jpg": "/portfolio-real/static/media/about.cef9fb5c14d6542d2ca6.jpg",
+    "static/media/pre.svg": "/portfolio-real/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/portfolio-real/index.html",
+    "main.7de32d10.css.map": "/portfolio-real/static/css/main.7de32d10.css.map",
+    "main.591a5f0c.js.map": "/portfolio-real/static/js/main.591a5f0c.js.map",
+    "415.4d6acbeb.chunk.js.map": "/portfolio-real/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio-real/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1ea9eec0.css",
-    "static/js/main.ade92db5.js"
+    "static/css/main.7de32d10.css",
+    "static/js/main.591a5f0c.js"
   ]
 }
