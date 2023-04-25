@@ -2,9 +2,6 @@
   Portfolio Website - v2.0<br/>
   <a href="https://github.com/kidusaklog/Portfolio.com/" target="_blank">kidusaklog</a>
 </h2>
-<div align="center">
-  <img alt="Demo" src="./Images/readme-img.png" />
-</div>
 
 <br/>
 
