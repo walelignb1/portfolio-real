@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="https://github.com/kidusaklog/Portfolio.com/" target="_blank">kidusaklog</a>
+  <a href="https://github.com/https://walelignb1.github.io/Portfolio.com/" target="_blank">walelign belisty</a>
 </h2>
 
 <br/>
